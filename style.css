@@ -11,7 +11,7 @@ body{
 
 #section{
     width: auto;
-    height: 75vh;
+    height: 570px;
     background-color: black;
     position: relative;
     padding: 0;
@@ -56,7 +56,8 @@ hr{
 #image{
     
     width: auto;
-    height: 480px;
+    height: 570px;
+    align-self:center;
 }
 
 #img-caption{
@@ -64,14 +65,31 @@ hr{
     float: right;
     font-size: 50px;
     color: aliceblue;
+    font-family: 'Beau Rivage', cursive;
 }
 
 #tribute-info{
     position: absolute;
     top: 100vh;
+    
+} 
+
+ul{
+    padding: 50px 250px;
+    list-style-type: disc;
+    font-size: 20px;
+    
 }
 
 h2{
     text-align: center;
     font-size: 50px;
+    color: aliceblue;
+    background-color: black;
+    font-family: 'Beau Rivage', cursive;
+}
+#p3{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Beau Rivage', cursive;
 }
