@@ -93,3 +93,7 @@ h2{
     font-size: 25px;
     font-family: 'Beau Rivage', cursive;
 }
+
+#tribute-content,cite{
+    padding: 100px;
+}
